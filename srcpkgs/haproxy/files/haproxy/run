@@ -1,3 +1,0 @@
-#!/bin/sh
-
-exec haproxy -W -f /etc/haproxy/haproxy.cfg

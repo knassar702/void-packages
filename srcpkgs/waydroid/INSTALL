@@ -1,6 +1,0 @@
-case "$ACTION" in
-post)
-	echo "Regenerating Waydroid configs..."
-	waydroid upgrade --offline
-	;;
-esac
